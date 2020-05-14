@@ -8,7 +8,8 @@
       "Assemblies": [
         "C:\\Users\\SICC\\.nuget\\packages\\credentialmanagement/1.0.2\\lib/net35/CredentialManagement.dll",
         "C:\\Users\\SICC\\.nuget\\packages\\uipath.credentials.activities/1.0.7053.27728\\lib/net452/UiPath.Credentials.Activities.dll"
-      ]
+      ],
+      "Path": null
     },
     {
       "Package": {
@@ -28,7 +29,8 @@
         "C:\\Users\\SICC\\.nuget\\packages\\uipath.excel.activities/2.7.2\\lib/net461/UiPath.Excel.Activities.Design.dll",
         "C:\\Users\\SICC\\.nuget\\packages\\uipath.excel.activities/2.7.2\\lib/net461/UiPath.Excel.Activities.dll",
         "C:\\Users\\SICC\\.nuget\\packages\\uipath.excel.activities/2.7.2\\lib/net461/UiPath.Excel.dll"
-      ]
+      ],
+      "Path": null
     },
     {
       "Package": {
@@ -46,7 +48,8 @@
         "C:\\Users\\SICC\\.nuget\\packages\\uipath.mail.activities/1.7.2\\lib/net461/UiPath.Mail.Activities.Design.dll",
         "C:\\Users\\SICC\\.nuget\\packages\\uipath.mail.activities/1.7.2\\lib/net461/UiPath.Mail.Activities.dll",
         "C:\\Users\\SICC\\.nuget\\packages\\uipath.mail.activities/1.7.2\\lib/net461/UiPath.Mail.dll"
-      ]
+      ],
+      "Path": null
     },
     {
       "Package": {
@@ -70,7 +73,8 @@
         "C:\\Users\\SICC\\.nuget\\packages\\uipath.system.activities/19.10.1\\lib/net461/UiPath.OrchestratorClient.dll",
         "C:\\Users\\SICC\\.nuget\\packages\\uipath.system.activities/19.10.1\\lib/net461/UiPath.System.Activities.Design.dll",
         "C:\\Users\\SICC\\.nuget\\packages\\uipath.system.activities/19.10.1\\lib/net461/UiPath.System.Activities.dll"
-      ]
+      ],
+      "Path": null
     },
     {
       "Package": {
@@ -117,7 +121,8 @@
         "C:\\Users\\SICC\\.nuget\\packages\\uipath.vision/1.8.1\\lib/net452/UiPath.Vision.Microsoft.dll",
         "C:\\Users\\SICC\\.nuget\\packages\\uipath.vision/1.8.1\\lib/net452/UiPath.Vision.MicrosoftCloud.dll",
         "C:\\Users\\SICC\\.nuget\\packages\\uipath.vision/1.8.1\\lib/net452/UiPath.Vision.Tesseract.dll"
-      ]
+      ],
+      "Path": null
     },
     {
       "Package": {
@@ -126,7 +131,8 @@
       },
       "Assemblies": [
         "C:\\Users\\SICC\\.nuget\\packages\\uipathteam.calendar.activities/1.0.0\\lib/net40/UiPathTeam.Calendar.Activities.dll"
-      ]
+      ],
+      "Path": null
     }
   ],
   "Conflicts": [],
