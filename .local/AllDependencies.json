@@ -1680,8 +1680,8 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "LeerExcel",
-      "projectName": "LeerExcel",
+      "projectUniqueName": "BthVector",
+      "projectName": "BthVector",
       "projectPath": "C:\\Users\\SICC\\Documents\\BthNotificacionVtc\\.local",
       "packagesPath": "C:\\Users\\SICC\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\SICC\\Documents\\BthNotificacionVtc\\.local"
